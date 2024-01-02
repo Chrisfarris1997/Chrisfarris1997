@@ -24,15 +24,6 @@ As a dedicated developer, I specialize in creating all of our game plugins using
 - Discord: [Refresh Gaming Community](https://discord.gg/cXXdygr6xe)
 
 
-### 💬 Ask me about:
-- Building gaming communities
-- Game plugin development with C#
-
-### 📫 How to reach me:
-- Email: [Your Email]
-- Discord: [agentbreezy]
-
-
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
