@@ -12,7 +12,6 @@ At Refresh Gaming, we're all about the community that surrounds it. We run:
 ### 🛠️ Our Tools & Tech:
 As a dedicated developer, I specialize in creating all of our game plugins using C#. Every plugin we use is crafted in-house, with a focus on enhancing gameplay and community engagement. Here are some tools and technologies I work with:
 - **Languages:** C# (Main), JavaScript, Python
-- **Tools:** Unity, Visual Studio, Git
 - **Platforms:** CS2
 
 ### 🌟 My Contributions:
